@@ -15,7 +15,7 @@ A user can book a ticket by providing:
 - Gender
 - Berth Preference: Lower / Middle / Upper
 
-### 🛏️ Berth Allocation Details
+### 🛏️ Berth Allocation Details (You can your own number of berth)
 - 2 Lower Berth
 - 2 Middle Berth
 - 2 Upper Berth
